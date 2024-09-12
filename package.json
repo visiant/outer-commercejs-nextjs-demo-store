@@ -41,6 +41,6 @@
     "eslint-config-next": "11.1.2"
   },
   "engines" : { 
-    "node" : "18.20.4"
+    "node": ">=50.9" // intentionally so big version number
   }
 }
