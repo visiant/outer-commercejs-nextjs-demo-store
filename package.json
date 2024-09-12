@@ -39,8 +39,5 @@
     "@chec/seeder": "^1.1.1",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2"
-  },
-  "engines" : { 
-    "node": ">=50.9" // intentionally so big version number
   }
 }
