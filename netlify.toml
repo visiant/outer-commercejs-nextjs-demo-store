@@ -2,6 +2,10 @@
   command = "yarn deploy"
   publish = "out"
 
+  [build.environment]
+  # Environment variables are set here
+  NODE_VERSION = "18.20.4"
+
 [[plugins]]
   package = "netlify-plugin-onboarding"
 
